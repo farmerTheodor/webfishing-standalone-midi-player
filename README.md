@@ -15,9 +15,7 @@ So because of that I built this one to fix the issues of the first midi controll
 2.  Run the `WebfishingMidiPlayer.exe` file. 
 3.  You may see an error pop up initially. Please ignore it(do not close it). The application should still function as expected.
 4.  Follow the GIF below to `Ctrl+Shift+Click` on the indicated spots in the correct order. Basically you should click on the two corners of the guitar.
-
-
-![](documentation\proper_bb_select.gif)
+ ![](documentation\proper_bb_select.gif)
 
 ## To Build the Binary:
 ```
