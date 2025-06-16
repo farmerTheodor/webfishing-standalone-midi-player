@@ -10,14 +10,13 @@ So because of that I built this one to fix the issues of the first midi controll
 - It is now built in python so that it is more extendable. Maybe in the future we can have an auto guitar recognition.
 - Does not use GDWeave
 
-## To Use: 
-1.  Run the `webfishing-midi-player.exe` file.(or run the python program)
-2.  You may see an error pop up initially. Please ignore it(do not close it). The application should still function as expected.
-3.  Follow the GIF below to `Ctrl+Shift+Click` on the indicated spots in the correct order. Basically you should click on the two corners of the guitar.
+## To Use The Executable: 
+1.  Download the `WebfishingMidiPlayer.exe` in the latest release.
+2.  Run the `WebfishingMidiPlayer.exe` file. 
+3.  You may see an error pop up initially. Please ignore it(do not close it). The application should still function as expected.
+4.  Follow the GIF below to `Ctrl+Shift+Click` on the indicated spots in the correct order. Basically you should click on the two corners of the guitar.
 
 ![](documentation\proper_bb_select.gif)
-
-
 
 ## To Build the Binary:
 ```
